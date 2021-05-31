@@ -12,7 +12,7 @@ Tampermonkey script to hide user name and AWS Account ID / Alias on The top nav 
 
 You will need to install Tampermonkey on Chrome or Firefox for this script to work. 
 
-For ore details please visit the respective sites:
+For more details please visit the respective sites:
 - [Tamperonkey Website](https://www.tampermonkey.net/)
 - [Chrome Tampermonkey Extension](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
 - [Firefox Tamperonkey Add-on](https://addons.mozilla.org/en-US/firefox/search/?q=tampermonkey)
