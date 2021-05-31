@@ -19,7 +19,11 @@ For ore details please visit the respective sites:
 
 # Demo
 
+Account Displayed
+
 ![ Account Displayed](images/account-displayed.png)
+
+Account Not Displayed
 
 ![Account Not Displayed](images/account-not-displayed.png)
 
