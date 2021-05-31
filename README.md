@@ -20,10 +20,16 @@ For ore details please visit the respective sites:
 # Demo
 
 Account Displayed
+<<<<<<< HEAD
 
 ![ Account Displayed](images/account-displayed.png)
 
 Account Not Displayed
 
+=======
+![ Account Displayed](images/account-displayed.png)
+
+Account Not Displayed
+>>>>>>> 4ddd31bb10bce53ff88e7d0e3d588888cf312008
 ![Account Not Displayed](images/account-not-displayed.png)
 
