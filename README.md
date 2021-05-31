@@ -25,9 +25,5 @@ Account Displayed
 
 Account Not Displayed
 
-![ Account Displayed](images/account-displayed.png)
-
-Account Not Displayed
-
 ![Account Not Displayed](images/account-not-displayed.png)
 
